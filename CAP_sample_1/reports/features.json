@@ -1,0 +1,30 @@
+{
+    "wall_time": 0.00059685499581974,
+    "image_reports": [
+        {
+            "image": "image_url_pr_10_13_sample_12.jpg",
+            "num_features": 5230,
+            "wall_time": 1.7316165059892228
+        },
+        {
+            "image": "image_url_pr_10_13_sample_13.jpg",
+            "num_features": 5258,
+            "wall_time": 1.7004096979944734
+        },
+        {
+            "image": "image_url_pr_10_13_sample_08.jpg",
+            "num_features": 5176,
+            "wall_time": 1.6897952529980103
+        },
+        {
+            "image": "image_url_pr_10_13_sample_11.jpg",
+            "num_features": 5229,
+            "wall_time": 1.6867854430020088
+        },
+        {
+            "image": "image_url_pr_10_13_sample_07.jpg",
+            "num_features": 5212,
+            "wall_time": 1.7383835229993565
+        }
+    ]
+}

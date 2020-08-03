@@ -1,0 +1,16 @@
+{
+    "make": "NIKON CORPORATION",
+    "model": "NIKON D5300",
+    "width": 4496,
+    "height": 3000,
+    "projection_type": "perspective",
+    "focal_ratio": 1.5833333333333333,
+    "orientation": 1,
+    "capture_time": 1507926508.0,
+    "gps": {
+        "latitude": 18.482181666666666,
+        "longitude": -66.959935,
+        "altitude": 415.0
+    },
+    "camera": "v2 nikon corporation nikon d5300 4496 3000 perspective 1.5833"
+}

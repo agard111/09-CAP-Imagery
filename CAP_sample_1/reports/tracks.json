@@ -1,0 +1,32 @@
+{
+    "wall_times": {
+        "load_features": 0.05285722699773032,
+        "load_matches": 0.0013123730022925884,
+        "compute_tracks": 0.10967325400270056
+    },
+    "wall_time": 0.16384285400272347,
+    "num_images": 5,
+    "num_tracks": 3417,
+    "view_graph": [
+        [
+            "image_url_pr_10_13_sample_07.jpg",
+            "image_url_pr_10_13_sample_08.jpg",
+            741
+        ],
+        [
+            "image_url_pr_10_13_sample_12.jpg",
+            "image_url_pr_10_13_sample_13.jpg",
+            1710
+        ],
+        [
+            "image_url_pr_10_13_sample_11.jpg",
+            "image_url_pr_10_13_sample_12.jpg",
+            1754
+        ],
+        [
+            "image_url_pr_10_13_sample_11.jpg",
+            "image_url_pr_10_13_sample_13.jpg",
+            878
+        ]
+    ]
+}

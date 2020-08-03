@@ -1,0 +1,42 @@
+{
+    "wall_times": {
+        "load_features": 0.09031905699998788,
+        "load_matches": 0.001527651000003516,
+        "compute_tracks": 0.011506379000024936
+    },
+    "wall_time": 0.10335308700001633,
+    "num_images": 6,
+    "num_tracks": 389,
+    "view_graph": [
+        [
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068AP60b871b4683b44f6a174bda3e240e16ajpg.jpg",
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068APbf21062e61e24559bb51707c6c213951jpg.jpg",
+            76
+        ],
+        [
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068APbf21062e61e24559bb51707c6c213951jpg.jpg",
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068APd98a31504d814e2cb2b9a100fdaf4d68jpg.jpg",
+            2
+        ],
+        [
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068AP16e25fb2093c4799b680f9cdd78a4209jpg.jpg",
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068AP6c670f361b4544858faff03808948657jpg.jpg",
+            3
+        ],
+        [
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068AP16e25fb2093c4799b680f9cdd78a4209jpg.jpg",
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068APede383fae88a47458d752bdddc47b671jpg.jpg",
+            50
+        ],
+        [
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068AP60b871b4683b44f6a174bda3e240e16ajpg.jpg",
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068APd98a31504d814e2cb2b9a100fdaf4d68jpg.jpg",
+            100
+        ],
+        [
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068AP6c670f361b4544858faff03808948657jpg.jpg",
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068APede383fae88a47458d752bdddc47b671jpg.jpg",
+            168
+        ]
+    ]
+}

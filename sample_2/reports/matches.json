@@ -1,0 +1,55 @@
+{
+    "wall_time": 4.108785524999973,
+    "num_pairs": 11,
+    "pairs": [
+        [
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068AP60b871b4683b44f6a174bda3e240e16ajpg.jpg",
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068APb532184ee4fc4b16954a795548cea052jpg.jpg"
+        ],
+        [
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068AP60b871b4683b44f6a174bda3e240e16ajpg.jpg",
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068APd98a31504d814e2cb2b9a100fdaf4d68jpg.jpg"
+        ],
+        [
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068AP60b871b4683b44f6a174bda3e240e16ajpg.jpg",
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068APbf21062e61e24559bb51707c6c213951jpg.jpg"
+        ],
+        [
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068AP6c670f361b4544858faff03808948657jpg.jpg",
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068AP701f5ef45755404f971d3238d142e3d7jpg.jpg"
+        ],
+        [
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068AP6c670f361b4544858faff03808948657jpg.jpg",
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068APede383fae88a47458d752bdddc47b671jpg.jpg"
+        ],
+        [
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068AP6c670f361b4544858faff03808948657jpg.jpg",
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068AP16e25fb2093c4799b680f9cdd78a4209jpg.jpg"
+        ],
+        [
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068AP45ee551469fa46e9ba072c0f62deaaeejpg.jpg",
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068AP60b871b4683b44f6a174bda3e240e16ajpg.jpg"
+        ],
+        [
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068AP45ee551469fa46e9ba072c0f62deaaeejpg.jpg",
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068APd98a31504d814e2cb2b9a100fdaf4d68jpg.jpg"
+        ],
+        [
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068AP701f5ef45755404f971d3238d142e3d7jpg.jpg",
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068AP45ee551469fa46e9ba072c0f62deaaeejpg.jpg"
+        ],
+        [
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068APb532184ee4fc4b16954a795548cea052jpg.jpg",
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068APbf21062e61e24559bb51707c6c213951jpg.jpg"
+        ],
+        [
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068APede383fae88a47458d752bdddc47b671jpg.jpg",
+            "httpfemacapimagerys3websiteuseast1amazonawscomImages9075614111A0068AP16e25fb2093c4799b680f9cdd78a4209jpg.jpg"
+        ]
+    ],
+    "num_pairs_distance": 5,
+    "num_pairs_time": 11,
+    "num_pairs_order": 0,
+    "num_pairs_bow": 0,
+    "num_pairs_vlad": 0
+}

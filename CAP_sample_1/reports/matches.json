@@ -1,0 +1,35 @@
+{
+    "wall_time": 2.1397421920119086,
+    "num_pairs": 6,
+    "pairs": [
+        [
+            "image_url_pr_10_13_sample_11.jpg",
+            "image_url_pr_10_13_sample_07.jpg"
+        ],
+        [
+            "image_url_pr_10_13_sample_11.jpg",
+            "image_url_pr_10_13_sample_13.jpg"
+        ],
+        [
+            "image_url_pr_10_13_sample_11.jpg",
+            "image_url_pr_10_13_sample_08.jpg"
+        ],
+        [
+            "image_url_pr_10_13_sample_11.jpg",
+            "image_url_pr_10_13_sample_12.jpg"
+        ],
+        [
+            "image_url_pr_10_13_sample_08.jpg",
+            "image_url_pr_10_13_sample_07.jpg"
+        ],
+        [
+            "image_url_pr_10_13_sample_12.jpg",
+            "image_url_pr_10_13_sample_13.jpg"
+        ]
+    ],
+    "num_pairs_distance": 4,
+    "num_pairs_time": 6,
+    "num_pairs_order": 0,
+    "num_pairs_bow": 0,
+    "num_pairs_vlad": 0
+}
